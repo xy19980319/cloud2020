@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/cloud-provider-payment8002/cloud-provider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seata-account-service2003/seata-account-service2003.iml" filepath="$PROJECT_DIR$/seata-account-service2003/seata-account-service2003.iml" />
     </modules>
   </component>
 </project>
